@@ -22,5 +22,9 @@ img {
   top: 0;
   left: 0;
   padding: 10px 10px 0 10px;
-  border-bottom: #000000;
+  border-bottom: 2px #000000;
+}
+
+.footer {
+  border-top: 2px #000000;
 }
