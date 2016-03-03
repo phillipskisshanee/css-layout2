@@ -1,11 +1,25 @@
 /*your custom CSS here*/
+body { 
+  padding-top: 100px;
+}
+
+
 img {
   width:100%;
 }
+
 
 .box {
   padding: 20px 20 px;
   margin: 5px;
   border: 10px #000000;
-  
+}
+
+
+.heading {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 10px 10px 0 10px;
 }
